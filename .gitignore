@@ -107,6 +107,11 @@ custom_components/midea_ac_lan/venv/
 ENV/
 env.bak/
 venv.bak/
+.direnv/
+.direnv.nosync/
+
+# VSCODE
+.vscode/
 
 # Spyder project settings
 .spyderproject
