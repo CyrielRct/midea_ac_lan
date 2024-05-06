@@ -110,8 +110,8 @@ venv.bak/
 .direnv/
 .direnv.nosync/
 
-# VSCODE
-.vscode/
+# # VSCODE
+# .vscode/
 
 # Spyder project settings
 .spyderproject
